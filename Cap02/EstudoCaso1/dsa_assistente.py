@@ -65,7 +65,7 @@ with st.sidebar:
     st.link_button("✉️ E-mail para mim", "mailto:victorlucaslapa@gmail.com")
 
 # Título principal do app
-st.title("Data Science Academy - Pytjon AI Coder")
+st.title("Data Science Academy - Python AI Coder")
 
 # Subtítulo adicional
 st.title("Assistente Pessoal de Programação Python 🐍")
